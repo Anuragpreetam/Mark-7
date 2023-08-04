@@ -1,0 +1,13 @@
+#text-field{
+    width: 80%;
+    height: 10rem;
+    display: block;
+    margin: 1rem 0rem;
+}
+
+#text-field-translated{
+    width: 80%;
+    height: 10rem;
+    display: block;
+    margin: 1rem 0rem; 
+}

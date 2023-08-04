@@ -26,11 +26,13 @@ body{
     width: 20%;
     min-height: 15rem;
     display: inline;
-    margin: 1rem 10rem; 
+    margin: auto; 
+    position: absolute;
     background-color: var(--background);
     color: white;
     resize: none;
     font-size: x-large;
+    text-align: center;
 }
 
 
@@ -39,16 +41,16 @@ body{
     padding-top: 1rem;
     padding-bottom: 1rem;
     margin: 0rem 0rem 0rem 2rem;
+    max-width: fit-content;
 }
 #img-container #img{
     max-width: 300px;
     margin: auto
 }
 
-#img-container #text-field-translated{
-    margin-bottom: 10rem;
+header{
+    display: inline;
 }
-
 #descriptions{
     color: white;
     margin-left: 1.5rem;

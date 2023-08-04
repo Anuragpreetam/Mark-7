@@ -1,6 +1,6 @@
 /*use fetch to get to the api and get the translated text*/
 /*https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json*/
-var url = "https://api.funtranslations.com/translate/minion.json"
+var url = "https://api.funtranslations.com/translate/groot.json"
 var true_text = document.getElementById("text-field")
 var translated_text = document.getElementById("text-field-translated")
 

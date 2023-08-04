@@ -31,8 +31,9 @@ body{
     background-color: var(--background);
     color: white;
     resize: none;
-    font-size: x-large;
+    font-size: large;
     text-align: center;
+    border-color: var(--background);
 }
 
 
